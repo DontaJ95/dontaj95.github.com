@@ -15,9 +15,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	 width:30px; 
-	 height:10px; 
-	 border:10px solid black;
+	 width:3px; 
+	 height:2px; 
+	 border:1px solid black;
 	 /* Firefox */ display:-moz-box; 
 	 -moz-box-orient:horizontal;
 	 -moz-box-pack:center;
