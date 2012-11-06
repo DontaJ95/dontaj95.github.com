@@ -23,8 +23,7 @@ time, mark, audio, video {
 	 width:3px; 
 	 height:2px; 
 	 border:1px solid black;
-	 /* Firefox */ display:-moz-box; 
-	 -moz-box-orient:horizontal;
+	 /* Firefox */ display:-moz-box;
 	 -moz-box-pack:center;
 	 -moz-box-align:center;
 	 /* Safari and Chrome */ display:-webkit-box;
