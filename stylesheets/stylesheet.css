@@ -19,15 +19,7 @@ time, mark, audio, video {
 	 padding: 0; 
 	 font-size: 100%; 	
 	 font: inherit;
-	 vertical-align: baseline; 
-	 /* Firefox */ display:-moz-box;
-	 -moz-box-pack:center;
-	 -moz-box-align:right;
-	 /* Safari and Chrome */ display:-webkit-box;
-	 -webkit-box-orient:vertical;
-	 -webkit-box-pack:center;
-	 -webkit-box-align:right;
-	 /* W3C */ display:box; box-orient:horizontal; box-pack:center; box-align:center;
+	 vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
