@@ -22,11 +22,11 @@ time, mark, audio, video {
 	 vertical-align: baseline; 
 	 /* Firefox */ display:-moz-box;
 	 -moz-box-pack:center;
-	 -moz-box-align:center;
+	 -moz-box-align:right;
 	 /* Safari and Chrome */ display:-webkit-box;
 	 -webkit-box-orient:vertical;
 	 -webkit-box-pack:center;
-	 -webkit-box-align:center;
+	 -webkit-box-align:right;
 	 /* W3C */ display:box; box-orient:horizontal; box-pack:center; box-align:center;
 }
 /* HTML5 display-role reset for older browsers */
